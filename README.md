@@ -11,7 +11,7 @@ Flutter is Google's UI toolkit for crafting beautiful, natively compiled applica
 
 - [Flutter-Portfolio-App](https://github.com/jayanthj737/Flutter-Portfolio-App)
 
-[<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif"height="600">](https://github.com/jayanthj737/Flutter-Portfolio-App)
+[<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif" height="600">](https://github.com/jayanthj737/Flutter-Portfolio-App)
 <hr>
 
 
@@ -32,6 +32,6 @@ Flutter is Google's UI toolkit for crafting beautiful, natively compiled applica
 
 
 - [Flutter-StateChange-App](https://github.com/jayanthj737/Flutter-StateChange-App)
- height="600">](https://github.com/jayanthj737/Flutter-StateChange-App)
+ <img src="https://github.com/jayanthj737/Flutter-StateChange-App/blob/master/Diceeey.gif" height="600">](https://github.com/jayanthj737/Flutter-StateChange-App)
   <hr>
 
