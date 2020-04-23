@@ -8,12 +8,16 @@ Flutter is Google's UI toolkit for crafting beautiful, natively compiled applica
 # Checkout Few of the Flutter Projects done so far.
 ## [Flutter-Weather-App]
 ## [Flutter-Portfolio-App](https://github.com/jayanthj737/Flutter-Portfolio-App)
-<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif"/>
+<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif" align="left" height="900"/>
+
 ## [Flutter-BMI-App](https://github.com/jayanthj737/FLUTTER-BMI-App)
-<img src="https://github.com/jayanthj737/FLUTTER-BMI-App/blob/master/untitled.gif"/>
+<img src="https://github.com/jayanthj737/FLUTTER-BMI-App/blob/master/untitled.gif" align="left" height="900"/>
+
 ## [Flutter-Quiz-App](https://github.com/jayanthj737/Flutter-Quiz-App)
-<img src="https://github.com/jayanthj737/Flutter-Quiz-App/blob/master/quiz.gif"/>
+<img src="https://github.com/jayanthj737/Flutter-Quiz-App/blob/master/quiz.gif" align="left" height="900"/>
+
 ## [Flutter-AudioPackage-Functionality-App](https://github.com/jayanthj737/Flutter-Audio-App)
-<img src="https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif"/>
+<img src="https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif" align="left" height="900"/>
+
 ## [Flutter-StateChange-App](https://github.com/jayanthj737/Flutter-StateChange-App)
-<img src="https://github.com/jayanthj737/Flutter-StateChange-App/blob/master/Diceeey.gifg"/>
+<img src="https://github.com/jayanthj737/Flutter-StateChange-App/blob/master/Diceeey.gifg" align="left" height="900"/>
