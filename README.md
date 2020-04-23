@@ -11,28 +11,28 @@ Flutter is Google's UI toolkit for crafting beautiful, natively compiled applica
 
 - [Flutter-Portfolio-App](https://github.com/jayanthj737/Flutter-Portfolio-App)
 
-[<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif" align="left" height="600"/>](https://github.com/jayanthj737/Flutter-Portfolio-App)
+[<img src="https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif" align="left" height="600">](https://github.com/jayanthj737/Flutter-Portfolio-App)
 <hr>
 
 
 - [Flutter-BMI-App](https://github.com/jayanthj737/FLUTTER-BMI-App)
 
-[<img src="https://github.com/jayanthj737/FLUTTER-BMI-App/blob/master/untitled.gif" align="left" height="600"/>](https://github.com/jayanthj737/FLUTTER-BMI-App)
+[<img src="https://github.com/jayanthj737/FLUTTER-BMI-App/blob/master/untitled.gif" align="left" height="600">](https://github.com/jayanthj737/FLUTTER-BMI-App)
   <hr>
 
 - [Flutter-Quiz-App](https://github.com/jayanthj737/Flutter-Quiz-App)
 
-[<img src="https://github.com/jayanthj737/Flutter-Quiz-App/blob/master/quiz.gif" align="left" height="750"/>](https://github.com/jayanthj737/Flutter-Quiz-App)
+[<img src="https://github.com/jayanthj737/Flutter-Quiz-App/blob/master/quiz.gif" align="left" height="600">](https://github.com/jayanthj737/Flutter-Quiz-App)
   <hr>
 
 - [Flutter-AudioPackage-Functionality-App](https://github.com/jayanthj737/Flutter-Audio-App)
 
-[<img src="https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif" align="left" height="600"/>](https://github.com/jayanthj737/Flutter-Audio-App)
+[<img src="https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif" align="left" height="600">](https://github.com/jayanthj737/Flutter-Audio-App)
   <hr>
 
 
 - [Flutter-StateChange-App](https://github.com/jayanthj737/Flutter-StateChange-App)
 
-[<img src="https://github.com/jayanthj737/Flutter-StateChange-App/blob/master/Diceeey.gifg" align="left" height="0"/>](https://github.com/jayanthj737/Flutter-StateChange-App)
+[<img src="https://github.com/jayanthj737/Flutter-StateChange-App/blob/master/Diceeey.gif" align="left" height="600">](https://github.com/jayanthj737/Flutter-StateChange-App)
   <hr>
 
