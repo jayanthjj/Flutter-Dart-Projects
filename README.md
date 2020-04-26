@@ -5,7 +5,7 @@
 
 Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter is an app SDK for building high-performance, high-fidelity apps for iOS, Android, web (beta), and desktop (technical preview) from a single codebase. The goal is to enable developers to deliver high-performance apps that feel natural on different platforms.
 
-# Checkout Few of the Flutter Projects done so far.(Cick on projects to know more)
+# Checkout Few of the Flutter Projects done so far. (Click on projects to know more)
 ## [Flutter-Stream-Chat_App](https://github.com/jayanthj737/Flutter-Stream-Chat_Application)
 Developed as a Multi user group chat app with a backend server based on Google's Firebase.
 
