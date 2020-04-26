@@ -43,6 +43,7 @@ Developed as a simple dice rolling app, which help understand the change of imag
   <hr>
   
 ## [Flutter-AudioPackage-Functionality-App](https://github.com/jayanthj737/Flutter-Audio-App)
+Developed as a simple audio app implemented as a xylophone, which help understand the use of flutter audio packages.
 
 [<img src="https://github.com/jayanthj737/Flutter-Audio-App/blob/master/xylo.gif"  height="600">](https://github.com/jayanthj737/Flutter-Audio-App)
   <hr>
