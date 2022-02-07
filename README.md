@@ -13,10 +13,6 @@ Developed as a Multi user group chat app with a backend server based on Google's
 <hr>
 
 
-## [Flutter-Weather-App](https://github.com/jayanthj737/Flutter-Weather-App)
-Will be updated soon.
-<hr>
-
 ## [Flutter-Portfolio-App](https://github.com/jayanthj737/Flutter-Portfolio-App)
 Developed as a portfolio app. Interactive app using Stateless Widget concept for Hot reload and executable using apk for Android, IOS and also on a Virtual Emulator .
 
@@ -49,5 +45,7 @@ Developed as a simple audio app implemented as a xylophone, which help understan
   <hr>
 
 
-
+## [Flutter-Weather-App](https://github.com/jayanthj737/Flutter-Weather-App)
+Will be updated soon.
+<hr>
 
